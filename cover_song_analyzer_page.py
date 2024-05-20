@@ -1,6 +1,4 @@
 import streamlit as st
-import cv2
-import uuid
 import time
 
 def show_cover_song_analyzer_page():
